@@ -1,10 +1,11 @@
-/*----------------------------
-Name: Project 1
-File: LoanAssistant.java
------------------------------
-Author: Jayesh Pawar
-Data:   19/1/2022, 12:13:23 am
------------------------------*/
+/**
+ * @author Jayesh
+ * @email jayeshpawar.2782.8@gmail.com
+ * @create date 2022-01-19 12:23:38
+ * @modify date 2022-01-19 12:23:38
+ * @desc Project1 For Internship
+ */
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
