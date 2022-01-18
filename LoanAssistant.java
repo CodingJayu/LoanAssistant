@@ -1,3 +1,10 @@
+/*----------------------------
+Name: Project 1
+File: LoanAssistant.java
+-----------------------------
+Author: Jayesh Pawar
+Data:   19/1/2022, 12:13:23 am
+-----------------------------*/
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
